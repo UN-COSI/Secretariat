@@ -10,4 +10,6 @@
 - 愿景：促进全球科技开放共享，助力人类社会可持续发展。
 - 任务：依托联合国咨商平台，服务国家战略；传播中国声音，汇聚全球力量，共建共享全球创新生态。
 
-<img width="466" height="204" alt="image" src="https://github.com/user-attachments/assets/c0c8ebfa-2753-4d82-ac07-1e4e3a48634a" />
+<div align=center>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/c0c8ebfa-2753-4d82-ac07-1e4e3a48634a" />
+</div>
